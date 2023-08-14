@@ -2,9 +2,6 @@
 
 This repository contains my solutions to the daily programming problems from GeeksforGeeks (GFG). GeeksforGeeks is a well-known platform that offers a vast array of resources and materials for computer science and programming topics.
 
-## Purpose
-The purpose of this repository is to document my journey of solving the daily programming problems provided by GeeksforGeeks. By consistently solving these problems, I aim to enhance my problem-solving skills, strengthen my understanding of algorithms and data structures, and broaden my knowledge of various programming concepts.
-
 ## Structure
 The repository is organized into folders, each representing a specific problem or puzzle from GeeksforGeeks. Inside each folder, you will find my solution to the respective problem, usually implemented in a programming language in Python.
 
